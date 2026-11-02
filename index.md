@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h2>Blog Posts</h2>
 <ul>
   {% for post in site.posts %}
